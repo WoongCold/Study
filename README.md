@@ -5,7 +5,7 @@
 
 # 머신러닝
 - 1
-    - KNN : ../material/Lec01_KNN.ipynb
+    - KNN : [Lec01_KNN](../material/Lec01_KNN.ipynb)
 - 2
     - 회귀
 - 3
