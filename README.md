@@ -1,6 +1,6 @@
 # 머신러닝
 - 1
-    - KNN **Lec01_KNN.ipynb**
+    - KNN
 - 2
     - 회귀
 - 3
