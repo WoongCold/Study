@@ -7,12 +7,14 @@
     - [Selenium을 이용한 크롤링](./material/%ED%81%AC%EB%A1%A4%EB%A7%81/Selenium%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%ED%81%AC%EB%A1%A4%EB%A7%81.ipynb)
 
 - 기타
-    - [API사용](./main/material/%ED%81%AC%EB%A1%A4%EB%A7%81/API%EC%82%AC%EC%9A%A9.ipynb)
+    - [API사용](./material/%ED%81%AC%EB%A1%A4%EB%A7%81/API%EC%82%AC%EC%9A%A9.ipynb)
     - [Finace Data Reader](./material/%ED%81%AC%EB%A1%A4%EB%A7%81/Finace%20Data%20Reader.ipynb)
 
 # 머신러닝
-- 1
-    - KNN : [Lec01_KNN](./material/Lec01_KNN.ipynb)
+-  KNN
+    - [KNN(scale_data)](./material/KNN/KNN(scale_data).ipynb)
+    - [KNN(bream,smelt)](./material/KNN/KNN(bream%2Csmelt).ipynb)
+    - [KNN(오렌지 자몽)](./material/KNN/KNN(%EC%98%A4%EB%A0%8C%EC%A7%80%20%EC%9E%90%EB%AA%BD).ipynb)
 - 2
     - 회귀
 - 3
