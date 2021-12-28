@@ -16,6 +16,11 @@
     - [KNN(bream,smelt)](./material/KNN/KNN(bream%2Csmelt).ipynb)
     - [KNN(오렌지 자몽)](./material/KNN/KNN(%EC%98%A4%EB%A0%8C%EC%A7%80%20%EC%9E%90%EB%AA%BD).ipynb)
 - 회귀
+    - [선형회귀(기초)](./material/%ED%9A%8C%EA%B7%80/%EC%84%A0%ED%98%95%ED%9A%8C%EA%B7%80(%EA%B8%B0%EC%B4%88).ipynb)
+    - [선형회귀(fish)](./material/%ED%9A%8C%EA%B7%80/%EC%84%A0%ED%98%95%ED%9A%8C%EA%B7%80(fish).ipynb)
+    - [선형회귀(와인)](./material/%ED%9A%8C%EA%B7%80/%EC%84%A0%ED%98%95%ED%9A%8C%EA%B7%80(%EC%99%80%EC%9D%B8).ipynb)
+    - [로지스틱회귀(기초)](./material/%ED%9A%8C%EA%B7%80/%EC%84%A0%ED%98%95%ED%9A%8C%EA%B7%80(%EC%99%80%EC%9D%B8).ipynb)
+    - 
     - 
 - 결정트리
     - [결정트리(Fish)](./material/%EA%B2%B0%EC%A0%95%ED%8A%B8%EB%A6%AC/%EA%B2%B0%EC%A0%95%ED%8A%B8%EB%A6%AC(Fish).ipynb)
