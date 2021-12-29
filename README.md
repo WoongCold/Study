@@ -1,12 +1,17 @@
 # 데이터 분석
 - numpy
-    -
+    - [numpy기초](./material/numpy%2Cpandas/Lec01_numpy_%EC%8B%A4%EC%8A%B5.ipynb)
+    - [numpy중급](./material/numpy%2Cpandas/Lec02_numpy_2.ipynb)
 - pandas
-    -
+    - [pandas기초](./material/numpy%2Cpandas/Lec02_Pandas.ipynb)
+    - [pandas중급](./material/numpy%2Cpandas/Lec03_pandas_2.ipynb)
 - matplot
-    -
+    - [matplot](./material/numpy%2Cpandas/Lec03_matplot.ipynb)
 - seaborn
-    -
+    - [seaborn](./material/numpy%2Cpandas/Lec04_seaborn.ipynb)
+- 실습
+    - [실습(iris)](./material/numpy%2Cpandas/Lec05_iris%EC%8B%A4%EC%8A%B5.ipynb)
+ 
 # 크롤링
 - BeautifulSoup
     - [BeautifulSoup를 이용한 크롤링](./material/%ED%81%AC%EB%A1%A4%EB%A7%81/BeautifulSoup%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%ED%81%AC%EB%A1%A4%EB%A7%81.ipynb)
