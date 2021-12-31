@@ -41,6 +41,11 @@
     - [결정트리(IRIS)](./material/%EA%B2%B0%EC%A0%95%ED%8A%B8%EB%A6%AC/%EA%B2%B0%EC%A0%95%ED%8A%B8%EB%A6%AC(IRIS).ipynb)
     - [Kfold(오존)](./material/%EA%B2%B0%EC%A0%95%ED%8A%B8%EB%A6%AC/Kfold(%EC%98%A4%EC%A1%B4).ipynb)
 # 딥러닝
-- 1
-- 2
-- 3
+- DNN
+    -
+    -
+    -
+- CNN
+    -
+    -
+    -
